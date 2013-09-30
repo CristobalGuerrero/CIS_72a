@@ -1,0 +1,20 @@
+/*
+   New Perspectives on HTML and XHTML 5th Edition
+   Tutorial 3
+   Tutorial Case
+
+  Final project style sheet
+   Author:Cristobal Guerrero 
+   Date:   
+
+   Filename:         main.css
+   Supporting Files: none
+
+*/
+
+dt,dd,ul,li,ol,p,h1, h2, h3     { color: #66FFFF }
+body							  		  { background: #000000; margin:0; }
+#button_column 			  		  { width: 100; height: 150; text align: center; background-color: #FF0000; }
+#line_up 		           		  { text align: right; width: 400 }
+#banner 		           	  		  { background: url(rising.jpg); height:145 }
+

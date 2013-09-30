@@ -1,0 +1,42 @@
+The 10 questions to keep in mind as you watch the video appear below.
+
+   1. Which one of the names below is a target name that browsers will automatically recognize as meaning they should open up the linked file in the same frame as the link itself is in?
+
+      a) main  b) _main  c) _self  d) nav  e) _nav
+   2. If a base target has been defined for a page and a link within that page has a different target specified, what does the browser do when that link is clicked?
+
+      a) uses the base target  b) uses the target specified in the link  c) shows an error page
+   3. What tag is designed to tell just recent browsers to ignore the html code within it?
+
+      a) frame  b) frameset  c) noshow  d) noframes  e) nono
+   4. Given the final version of the frames-based site shown in the video, what is the name given to the right-hand frame?
+
+      a) nav  b) nav2  c) _self  d) right  e) main
+   5. Given the fact that multiple pages are being displayed simultaneously in a frames-based site, and each of these pages can have a unique "title", what title does the browser display in its title bar?
+
+      a) the frameset's title  b) the left-hand frame's title  c) the right-hand frame's title  d) combination of these titles
+   6. Which of the following can be described as a possible negative impact of designing a site using frames?
+
+      a) site's structure is more complicated
+      b) search engine ranking may be worse
+      c) both of the above
+   7. Which of the following can be described as a possible positive impact of designing a site using frames?
+
+      a) navigation system is more centralized
+      b) search engine ranking will be better
+      c) both of the above
+   8. What version of Internet Explorer (for Windows) was the first version that was capable of properly displaying a frames-based site?
+
+      a) IE 1  b) IE 2  c) IE 3  d) IE 4  e) IE 5
+   9. When used within a frameset tag, what does the asterisk symbol (*) mean?
+
+      a) do not display this frame initially
+      b) give this frame the rest of the available space
+      c) keep this frame visible at all times
+      d) the information for this frame will be given in a frame tag below
+  10. Can the user of a frames-based web site move the location of frame border (separator) themselves?
+
+      a) Sometimes they can, sometimes not, depending on the frameset code
+      b) No, this frame border cannot ever be moved by the user, regardless of the frameset's code
+      c) Yes, this frame border can always be moved by the user, regardless of the frameset's code
+
